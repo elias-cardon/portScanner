@@ -1,0 +1,30 @@
+[
+    {
+        "Host": "google.com",
+        "Port": "20/tcp open"
+    },
+    {
+        "Host": "google.com",
+        "Port": "80/tcp open"
+    },
+    {
+        "Host": "google.com",
+        "Port": "100/tcp open"
+    },
+    {
+        "Host": "google.com",
+        "Port": "20/tcp open"
+    },
+    {
+        "Host": "elias-cardon.com",
+        "Port": "20/tcp open"
+    },
+    {
+        "Host": "elias-cardon.com",
+        "Port": "100/tcp open"
+    },
+    {
+        "Host": "elias-cardon.com",
+        "Port": "80/tcp open"
+    }
+]
